@@ -1,0 +1,42 @@
+[
+  {
+    "identificacion": "1723456789",
+    "nombre": "Ana López",
+    "correo": "ana.lopez@gmail.com",
+    "usuario": "ana",
+    "contrasena": "1234",
+    "rol": "Administrador"
+  },
+  {
+    "identificacion": "1724567890",
+    "nombre": "Carlos Pérez",
+    "correo": "carlos.perez@gmail.com",
+    "usuario": "carlos",
+    "contrasena": "1234",
+    "rol": "Empleado"
+  },
+  {
+    "identificacion": "1725678901",
+    "nombre": "María González",
+    "correo": "maria.gonzalez@gmail.com",
+    "usuario": "maria",
+    "contrasena": "1234",
+    "rol": "Cliente"
+  },
+  {
+    "identificacion": "1726789012",
+    "nombre": "Juan Martínez",
+    "correo": "juan.martinez@gmail.com",
+    "usuario": "juan",
+    "contrasena": "1234",
+    "rol": "Empleado"
+  },
+  {
+    "identificacion": "1727890123",
+    "nombre": "Sofía Torres",
+    "correo": "sofia.torres@gmail.com",
+    "usuario": "sofia",
+    "contrasena": "1234",
+    "rol": "Cliente"
+  }
+]

@@ -1,0 +1,7 @@
+[
+    {"codigo":"P001","nombre":"Hamburguesa Clásica","categoria":"Comida","precio":5.5,"stock":20},
+    {"codigo":"P002","nombre":"Pizza Personal","categoria":"Comida","precio":6.75,"stock":15},
+    {"codigo":"P003","nombre":"Coca Cola","categoria":"Bebida","precio":2.0,"stock":30},
+    {"codigo":"P004","nombre":"Jugo Natural","categoria":"Bebida","precio":2.5,"stock":25},
+    {"codigo":"P005","nombre":"Brownie de Chocolate","categoria":"Postre","precio":3.0,"stock":10}
+]
